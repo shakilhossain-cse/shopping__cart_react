@@ -1,0 +1,25 @@
+.img-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.img-container img{
+    width: 30%;
+}
+nav {
+    background-color: black;
+}
+.cat-item {
+    width: 80%;
+    margin: 0 auto;
+}
+.cat-item a{
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    padding:1rem 2rem;
+}
+.cat-item a:hover{
+    background-color: rgb(117, 117, 117);
+}
