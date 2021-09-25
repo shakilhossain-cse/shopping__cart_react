@@ -1,0 +1,21 @@
+.cart{
+    display: flex;
+    background-color: rgba(194, 193, 193, 0.897);
+    margin-bottom: 0.5rem;
+    padding: 1rem;
+}
+.cart-img{
+    flex: 1;
+}
+.cart-img img{
+    width: 100%;
+}
+.cart-detiles{
+    flex: 2;
+}
+.cart-detiles h5{
+    margin: 5px;
+}
+.cart-detiles p{
+    margin: 5px;
+}

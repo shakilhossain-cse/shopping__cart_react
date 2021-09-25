@@ -14,6 +14,9 @@ export default function Header() {
                     <a href="">About</a>
                     <a href="">Cart</a>
                 </div>
+                <div className="cart-search">
+                    <input type="text" name="" id="" />
+                </div>
             </nav>
         </div>
     )

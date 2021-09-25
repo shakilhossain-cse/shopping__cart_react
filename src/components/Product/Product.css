@@ -1,0 +1,16 @@
+.product-container{
+    display: flex;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    background-color: rgba(221, 221, 221, 0.246);
+}
+.img-container{
+    flex: 1;
+}
+.product-img img{
+    width: 100%;
+}
+.product-detiles{
+    padding: 1rem;
+    flex: 2;
+}

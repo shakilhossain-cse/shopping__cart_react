@@ -23,3 +23,19 @@ nav {
 .cat-item a:hover{
     background-color: rgb(117, 117, 117);
 }
+.cart-search{
+    background-color: rgb(29, 29, 29);
+    height: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0.5rem;
+}
+.cart-search input{
+    width: 77%;
+    /* height: 2rem; */
+    font-size: 1.5rem;
+}
+.cart-search input:focus{
+    outline: none;
+}
